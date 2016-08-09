@@ -1,0 +1,134 @@
+---
+title: "TAS"
+author: "Robert A. Stevens"
+date: "August 8, 2016"
+output: html_document
+---
+
+*The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*
+
+by Avinash K. Dixit and Barry J. Nalebuff (2008)
+
+http://www.artofstrategy.net
+
+```
+```
+From http://www2.warwick.ac.uk/fac/soc/economics/current/ug/induction/before-you-arrive/summer-reading-list
+
+If you want to know more about what economics as a discipline is about and where it can lead, there are some easily accessible sources that can be read with equal interest and pleasure by graduate economists and readers who know no economics at all.
+
+- Dixit, A and Nalebuff, B. 1991. *Thinking Strategically: The Competitive Edge in Business, Politics and Every Day Life*.
+
+- Harford, T. 2005. *The Undercover Economist*. Oxford University Press.
+
+- Levitt, S and Dubner, S. 2005. *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything*. HarperCollins.
+
+- Mlodinow, L. 2008. *The Drunkard’s Walk: How Randomness Rules Our Lives*. Pantheon.
+
+The absolute classic is Adam Smith’s *Wealth of Nations*; though this may be heavy going it is definitely worth dipping into. We also recommend Thomas Pikety's *Capital in the Twenty-first Century*. We also strongly recommend reading *The Economist* magazine regularly both before and after coming to Warwick. In terms of websites, we recommend *The Art of Strategy*, by two top Economists; Professor Avinash Dixit, Princeton University (and former Warwick Economics Professor and Head of Department) and Professor Barry Nalebuff, Yale, as well as the inspirational lecture delivered by Christine Lagarde from the IMF for the BBC’s Richard Dimbleby lecture series, delivered in February 2014.
+```
+```
+
+```
+```
+From the Australian Graduate School of Management's 5306 STRATEGIC GAME THEORY FOR MANAGERS (Term 3, 2009) course outline:  "**I have no hesitation in saying that all MBAs should have become familiar with this book**."
+```
+```
+
+## Contents
+
+Preface
+
+Introduction:  How Should People Behave in Society?
+
+PART I  
+01. Ten Tales of Strategy  
+02. Games Solvable by Backward Reasoning  
+03. Prisoners' Dilemmas and How to Resolve Them  
+04. A Beautiful Equilibrium  
+Epilogue to Part I
+
+PART II  
+05. Choice and Chance  
+06. Strategic Moves  
+07. Making Strategies Credible  
+Epilogue to Part II: A Nobel History
+
+PART III  
+08. Interpreting and Manipulation Information  
+09. Cooperation and Coordination  
+10. Auctions, Bidding, and Contests  
+11. Bargaining  
+12. Voting  
+13. Incentives  
+14. Case Studies
+
+Further Reading
+
+Workouts
+
+Notes
+
+Index
+
+## Preface
+
+Good strategy must appropriately mix competition and cooperation.
+
+Strategic thinking is the art of outdoing an adversary, knowing the adversary is trying to do the same to you.
+
+It is also the art of finding ways to cooperate, even when other are motivated by self-interest, not benevolence.
+
+It is the art of convincing others, and even yourself, to do what you say.
+
+It is the art of interpreting and revealing information.
+
+It is the art of putting yourself in others' shoes so as to predict and influence what they will do.
+
+## Introduction:  How Should People Behave in Society?
+
+The art of strategy, in all the varied situations you may need it, requires you to do more work.
+
+Each such situation will have some unique features that you must take into account and combine with the general principles of the science. 
+
+The only way to improve your skill at this art is the inductive way - by seeing how it has been done before in similar situations.
+
+## Epilogue to Part I
+
+A *game* is a situation of strategic interdependence: the outcome of your choices (strategies) depends upon the choices of one or more other persons acting purposely.
+
+The decision makers involved in a game are called players, and their choices are called *moves*.
+
+The moves in a game maybe *sequential* or *simultaneous*.
+
+In a game of sequential moves, there is a linear chain of thinking.
+
+Such a game is studied by drawing a *game tree*.
+
+The best choices of moves can be found by applying *Rule 1: Look forward and reason backward*.
+
+In a game with simultaneous moves, there is a logical circle of reasoning.
+
+To tackle such a game, construct a *table* that shows the outcomes corresponding to all conceivable combinations of choices.
+
+Begin by seeing if either side has a *dominant strategy* - one that outperforms all of that side's other strategies, irrespective of the rival's choice.
+
+This leads to *Rule 2: If you have a dominant strategy, use it*.
+
+If neither side has a dominant strategy, see if either has a *dominated strategy* - one that is uniformly worse for the side playing it than all the rest of the strategies.
+
+If so, apply *Rule 3: Eliminate dominated strategies form consideration.*
+
+If there are neither dominant nor dominated strategies, or after the games has been simplified as far as possible using the send step, apply *Rule 4: Look for an equilibrium, a pari of strategies in which each player's action is the best response to the other's*.
+
+## Epilogue to Part II: A Nobel History
+
+1994: John Harsanyi shared the Nobel Prize with John Nash, by showing that Nash equilibrium could be extended to games where players are unsure about the other player's preferences.
+
+1996: Honored James Mirrlees and William Vickrey, who developed the theories of how to design a game that will achieve truthful revelation of the other player's private information.
+
+2001: Went to George Akerlof, whose model of the private used car market illustrated how markets can fail when one part has private information. 
+
+2005: Robert Aumann, who showed that the challenge in Nash equilibrium's potential for multiple solutions becomes greater in repeated games, and the contributions of Thomas Schelling, who developed the ideas of commitment and strategic moves.
+
+2007: Honored three of the most eminent pioneers of information economics of screening strategies to gain information about others: Leonid Hurwicz, Eric Maskin, and Roger Myerson.
