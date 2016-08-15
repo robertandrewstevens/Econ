@@ -1,0 +1,38 @@
+---
+title: "TAS01"
+author: "Robert A. Stevens"
+date: "August 8, 2016"
+output: html_document
+---
+
+*The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*
+
+by Avinash K. Dixit and Barry J. Nalebuff (2008)
+
+# Chapter 1. Ten Tales of Strategy  
+
+## #1. Pick a Number
+
+## #2. Winning by Losing
+
+## #3. The Hot Hand
+
+## #4. To Lead or Not to Lead
+
+## #5. Here I Stand
+
+## #6. Thinning Strategically
+
+## #7. Buffet's Dilemma
+
+## #8. Mix Your Plays
+
+## #9. Never Give a Sucker an Even Bet
+
+## #10. Game Theory Can Be Dangerious to Your Health
+
+## The Shape of Things to Come
+
+## Case Study: Multiple Choice
+
+### Case Discussion
