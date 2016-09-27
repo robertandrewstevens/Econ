@@ -1,0 +1,16 @@
+---
+title: "Economics"
+author: "Robert A. Stevens"
+date: "April 27, 2016"
+output: html_document
+---
+
+The Growth Economics Blog - Papers
+https://growthecon.wordpress.com/
+[see development history and Ag papers]
+
+The Fall of the House of Samuelson
+https://www.project-syndicate.org/commentary/paul-samuelson-economic-crisis-by-robert-skidelsky-2015-01
+
+When G.M. Was Google
+http://www.newyorker.com/magazine/2014/12/01/g-m-google
